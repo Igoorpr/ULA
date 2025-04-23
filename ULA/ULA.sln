@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ULA", "ULA\ULA.csproj", "{797A3EFB-3B6E-4AD6-AB89-6190CADBDCDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{797A3EFB-3B6E-4AD6-AB89-6190CADBDCDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797A3EFB-3B6E-4AD6-AB89-6190CADBDCDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797A3EFB-3B6E-4AD6-AB89-6190CADBDCDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797A3EFB-3B6E-4AD6-AB89-6190CADBDCDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C11BE26-3F86-4C2A-9FAC-04E3D5A9B156}
+	EndGlobalSection
+EndGlobal
